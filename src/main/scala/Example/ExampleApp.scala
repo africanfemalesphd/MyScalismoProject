@@ -1,0 +1,5 @@
+package Example
+
+object ExampleApp {
+
+}
